@@ -12,8 +12,18 @@ A lightweight and efficient JavaScript library for validating International Bank
 
 ## Installation
 
+You can install this package directly from GitHub:
+
 ```bash
-npm install iban-validator
+npm install git+https://github.com/YOUR_USERNAME/iban-validator.git
+```
+
+Or clone the repository and install locally:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/iban-validator.git
+cd iban-validator
+npm install
 ```
 
 ## Usage
