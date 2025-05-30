@@ -1,0 +1,20 @@
+{
+  "name": "iban-validator",
+  "version": "1.0.0",
+  "description": "A simple IBAN (International Bank Account Number) validator",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "iban",
+    "validator",
+    "banking",
+    "finance"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+} 
